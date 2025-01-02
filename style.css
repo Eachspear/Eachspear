@@ -1,0 +1,13 @@
+.bulb-container {
+    height: 341px;
+    width: 341px;
+    background: grey; /* Default background color */
+}
+
+.bulb {
+    background: yellow;
+}
+
+.active {
+    background: red; /* Toggled background color */
+}
